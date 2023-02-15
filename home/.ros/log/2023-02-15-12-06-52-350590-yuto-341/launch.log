@@ -1,0 +1,7 @@
+1676462812.3511419 [INFO] [launch]: All log files can be found below /home/yuto/.ros/log/2023-02-15-12-06-52-350590-yuto-341
+1676462812.3512807 [INFO] [launch]: Default logging verbosity is set to INFO
+1676462812.7692368 [INFO] [gzserver-1]: process started with pid [342]
+1676462812.7694585 [INFO] [gzclient-2]: process started with pid [344]
+1676462832.5494933 [INFO] [gzclient-2]: process has finished cleanly [pid 344]
+1676462833.5815673 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1676462833.8084593 [INFO] [gzserver-1]: process has finished cleanly [pid 342]
